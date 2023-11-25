@@ -1,13 +1,17 @@
 # TgPasswordManager
-Aiogram Bot Password Manager
+**Aiogram Bot Password Manager**
+
+---
 
 # Библиотеки и Python:
-Python 3.10.11 (https://www.python.org/downloads/release/python-31011/)
-aiogram
-peewee-aio
-aiosqlite
+1. **Python** 3.10.11 (https://www.python.org/downloads/release/python-31011/)
+2. **aiogram**
+3. **peewee-aio**
+4. **aiosqlite**
+
+---
 
 # Конфиг (config.py)
-BOT_TOKEN - Токен бота телеграмм (@BotFather)
-ADMINS_ID - ID админа бота (@getmyid_bot)
-MAX_ITEMS_IN_PAGE - Максимальное кол-во элементов (не учитывая кнопки управления) на одной странице
+1. **BOT_TOKEN** - Токен бота телеграмм (@BotFather)
+2. **ADMINS_ID** - ID админа бота (@getmyid_bot)
+3. **MAX_ITEMS_IN_PAGE** - Максимальное кол-во элементов (не учитывая кнопки управления) на одной странице
